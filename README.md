@@ -4,7 +4,7 @@
 ## Hello world! 
 
 
-This is my **first** resporitory on GitHub!
+This is my **first** repository on GitHub!
 
 To challange **you** I chose to let **AI** make a small **quiz** about computing, here we go...
 
